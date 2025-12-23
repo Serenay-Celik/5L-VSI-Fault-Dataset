@@ -36,4 +36,4 @@ If you use this dataset in your research, please cite the following Master's The
 > Serenay Çelik, "Kaskat Bağlı Çok Seviyeli Eviricilerde Açık Anahtar Arızalarının Yapay Zekâ Teknikleri Kullanılarak Tespiti", Yüksek Lisans Tezi, Fırat Üniversitesi, Fen Bilimleri Enstitüsü, Elazığ, 2025.
 
 ---
-**Contact:** [serenay.celi@firat.tr]
+**Contact:** [serenay.celik@firat.tr]
