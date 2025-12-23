@@ -2,9 +2,9 @@
 
 
 
-This repository contains the experimental dataset for the research paper: 
+This repository contains the simulated dataset for the thesis:
 
-\*\*"Diagnosis of Open Circuit Faults by Monitoring Phase Currents of Voltage Source Inverter"\*\*
+\*\*"Detection of Open Switch Faults in Cascaded Multilevel Inverters Using Artificial Intelligence Techniques"\*\*
 
 
 
@@ -18,7 +18,7 @@ This dataset consists of phase current signals from a three-phase 5-level voltag
 
 
 
-\- \*\*Load Stability:\*\* The dataset includes tests under different R-L loads (10Ω-10mH and 12Ω-5mH).
+\- \*\*Load Stability:\*\* The dataset includes tests under different R-L loads.
 
 \- \*\*Format:\*\* All files are provided in `.mat` format.
 
@@ -28,15 +28,25 @@ This dataset consists of phase current signals from a three-phase 5-level voltag
 
 
 
+Bu depo, tez için simüle edilmiş veri setini içermektedir:
+
+\*\*"Kaskat Bağlı Çok Seviyeli Eviricilerde Açık Anahtar Arızalarının Yapay Zekâ Teknikleri Kullanılarak Tespiti "\*\*
+
+
+
+---
+
+
+
 \## Türkçe Açıklama
 
-Bu depo, \*\*"Gerilim Kaynaklı Eviricinin Faz Akımlarının İzlenmesiyle Açık Devre Arızalarının Teşhisi"\*\* başlıklı makalede kullanılan verileri içermektedir.
+Bu veri seti, üç fazlı 5 seviyeli gerilim kaynaklı invertörden gelen faz akımı sinyallerinden oluşmaktadır.
 
 
 
-\- \*\*Yük Kararlılığı:\*\* Önerilen yöntemin başarısı, iki farklı R-L yükü (10Ω-10mH ve 100Ω-1mH) altında doğrulanmıştır.
+\- \*\*Yük Kararlılığı:\*\* Veri seti, farklı R-L yükleri altında yapılan testleri içermektedir.
 
-\- \*\*Format:\*\* Dosyalar MATLAB uyumlu `.mat` formatındadır.
+\- \*\*Format:\*\* Tüm dosyalar `.mat` formatında sağlanmıştır.
 
 
 
