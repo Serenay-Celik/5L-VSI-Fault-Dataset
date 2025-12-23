@@ -22,7 +22,7 @@ Bu depo, aşağıdaki yüksek lisans tezi için üretilen simüle edilmiş veri 
 
 - **Dosya İçerikleri:**
     - **Ham Veriler (.mat):** 16 farklı sınıf için kaydedilmiş orijinal faz akım sinyalleri.
-    - **Features_Data.mat:** Makine öğrenmesi modellerine girdi olarak verilen, işlenmiş öznitelik matrisi (Ortalama/RMS oranları).
+    - **Features_Data.mat:** Makine öğrenmesi modellerine girdi olarak verilen, işlenmiş öznitelik matrisi (ortalama/rms oranları).
 - **Yük Kararlılığı:** Veri seti, farklı R-L yükleri altında yapılan testleri içermektedir.
 - **Teknik Gereksinim:** `.mat` dosyalarını görüntülemek ve işlemek için **MATLAB** yazılımı gereklidir.
 
